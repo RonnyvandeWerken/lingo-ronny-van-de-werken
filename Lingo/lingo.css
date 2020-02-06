@@ -1,0 +1,225 @@
+body {
+	background-color: grey;
+}
+#container {
+	background-color: red;
+	width: 450px;
+	height: 225px;
+	margin: auto;
+}
+
+#lingotitel {
+	margin-left: 30px;
+    margin-top: 10px;
+    padding-top: 20px;
+}
+
+#userInput {
+	margin-left: 30px;
+    margin-top: 10px;
+}
+
+#checkbutton {
+    margin-left: 30px;
+    margin-top: 10px;
+    display: block;
+}
+
+#checkcontainer {
+	background-color: black;
+	width: 450px;
+	height: 600px;
+	margin: auto;
+}
+
+#div1 {
+	padding: 20px 20px;
+	background-color: white;
+	display: inline-block;
+	margin-right: 15px;
+	margin-left: 50px;
+	margin-top: 30px;
+}
+
+#div2 {
+	padding: 20px 20px;
+	background-color: white;
+	display: inline-block;
+	margin-right: 15px;
+	margin-top: 30px;
+}
+
+#div3 {
+	padding: 20px 20px;	
+	background-color: white;
+	display: inline-block;
+	margin-right: 15px;
+	margin-top: 30px;
+}
+
+#div4 {
+	padding: 20px 20px;
+	background-color: white;
+	display: inline-block;
+	margin-right: 15px;
+	margin-top: 30px;
+}
+
+#div5 {
+	padding: 20px 20px;
+	background-color: white;
+	display: inline-block;
+	margin-right: 15px;
+	margin-right: 50px;
+	margin-top: 30px;
+}
+
+#div6 {
+	padding: 20px 20px;
+	background-color: white;
+	display: inline-block;
+	margin-right: 15px;
+	margin-left: 50px;
+	margin-top: 10px;
+}
+
+#div7 {
+	padding: 20px 20px;
+	background-color: white;
+	display: inline-block;
+	margin-right: 15px;
+}
+
+#div8 {
+	padding: 20px 20px;	
+	background-color: white;
+	display: inline-block;
+	margin-right: 15px;
+}
+
+#div9 {
+	padding: 20px 20px;
+	background-color: white;
+	display: inline-block;
+	margin-right: 15px;
+}
+
+#div10 {
+	padding: 20px 20px;
+	background-color: white;
+	display: inline-block;
+	margin-right: 15px;
+	margin-right: 50px;
+}
+#div11 {
+	padding: 20px 20px;
+	background-color: white;
+	display: inline-block;
+	margin-right: 15px;
+	margin-left: 50px;
+	margin-top: 10px;
+}
+
+#div12 {
+	padding: 20px 20px;
+	background-color: white;
+	display: inline-block;
+	margin-right: 15px;
+}
+
+#div13 {
+	padding: 20px 20px;	
+	background-color: white;
+	display: inline-block;
+	margin-right: 15px;
+}
+
+#div14 {
+	padding: 20px 20px;
+	background-color: white;
+	display: inline-block;
+	margin-right: 15px;
+}
+
+#div15 {
+	padding: 20px 20px;
+	background-color: white;
+	display: inline-block;
+	margin-right: 15px;
+	margin-right: 50px;
+}
+#div16 {
+	padding: 20px 20px;
+	background-color: white;
+	display: inline-block;
+	margin-right: 15px;
+	margin-left: 50px;
+	margin-top: 10px;
+}
+
+#div17 {
+	padding: 20px 20px;
+	background-color: white;
+	display: inline-block;
+	margin-right: 15px;
+}
+
+#div18 {
+	padding: 20px 20px;	
+	background-color: white;
+	display: inline-block;
+	margin-right: 15px;
+}
+
+#div19 {
+	padding: 20px 20px;
+	background-color: white;
+	display: inline-block;
+	margin-right: 15px;
+}
+
+#div20 {
+	padding: 20px 20px;
+	background-color: white;
+	display: inline-block;
+	margin-right: 15px;
+	margin-right: 50px;
+}
+#div21 {
+	padding: 20px 20px;
+	background-color: white;
+	display: inline-block;
+	margin-right: 15px;
+	margin-left: 50px;
+	margin-top: 10px;
+}
+
+#div22 {
+	padding: 20px 20px;
+	background-color: white;
+	display: inline-block;
+	margin-right: 15px;
+}
+
+#div23 {
+	padding: 20px 20px;	
+	background-color: white;
+	display: inline-block;
+	margin-right: 15px;
+}
+
+#div24 {
+	padding: 20px 20px;
+	background-color: white;
+	display: inline-block;
+	margin-right: 15px;
+}
+
+#div25 {
+	padding: 20px 20px;
+	background-color: white;
+	display: inline-block;
+	margin-right: 15px;
+	margin-right: 50px;
+}
+
